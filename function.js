@@ -1,4 +1,3 @@
-
 // Code By Webdevtrick ( https://webdevtrick.com ) Access Granted
 $(document).ready(function(){ 
  $(".scroll").click(function(event){
@@ -7,4 +6,3 @@ $(document).ready(function(){
  $('.navbar-default a').removeClass('selected');
  $(this).addClass('selected');
   });
-

@@ -88,6 +88,11 @@ a:hover {
   height: 500px;
   width: 450px;
 }
+
+#sourceCodeTitle {
+  text-align: center; 
+}
+
 #projectTitle {
   text-align: center; 
   font-size: 2.8em;
@@ -264,15 +269,7 @@ footer {
   font-size: 20px;
   width: 50%;
 }
-#liveDemo {
-  text-align: center;
-  font-size: 2em;
-  cursor: pointer;
-  display: inline;
-  padding-right: 10%;
-  padding-left: 20%;
-  color: #002b80;
-}
+
 #sourceCode {
   text-align: center;
   font-size: 2em;
