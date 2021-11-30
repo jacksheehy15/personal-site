@@ -298,37 +298,34 @@ footer {
    border-style: solid;
    border-color: #084461;
 }
-.btn-drible {
-    background: #e64786;
-    border-radius: 10px;
-    color: white; 
-    border-width: 1px;
-    border-style: solid;
-   border-color: #084461;
-}
+
+
 .btn-github {
-    background-color: #24292e;
+    background-color: #e64786;
     border-radius: 10px;
     color: white; 
     border-width: 1px;
     border-style: solid;
    border-color: #084461;
 }
-.btn-email {
-    background-color: #141f1f;
+.btn-insta {
+    background-color: #833AB4;
     border-radius: 10px;
     color: white; 
     border-width: 1px;
     border-style: solid;
    border-color: #084461;
 }
-.btn-facebook {
-    background-color: #4267b2;
+.btn-spotify {
+    background-color: #1DB954;
     border-radius: 10px;
     color: white; 
     border-width: 1px;
     border-style: solid;
    border-color: #084461;
+}
+.btn:hover {
+  transform: skew(-10deg);
 }
 @media (min-width:1400px)   {
   .banner, .skills, .ex-timeline, .portfolios, .contact-section {
@@ -441,4 +438,3 @@ footer {
     font-size: 5.5vw;
   }
 }
-
