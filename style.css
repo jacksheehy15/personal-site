@@ -39,6 +39,11 @@ a:hover {
   background: rgba(0, 0, 0, 0.76);
   height: 1000px;
 }
+
+#prTitle {
+  color: ;
+}
+
 .skills {
   background:url("https://webdevtrick.com/wp-content/uploads/coding.jpg");
   background-size: cover;
@@ -329,6 +334,11 @@ footer {
 .btn:hover {
   transform: skew(-10deg);
 }
+
+.skewIt:hover{
+  transform: skew(-10deg);
+}
+
 @media (min-width:1400px)   {
   .banner, .skills, .ex-timeline, .portfolios, .contact-section {
      background-repeat: no-repeat; 
